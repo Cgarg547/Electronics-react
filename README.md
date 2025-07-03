@@ -25,7 +25,8 @@ This project is a demonstration of building an e-commerce application using the 
 
 ## Live Deployment
 
-The application is deployed live on Vercel. You can access it at the following URL: **[Garg Electronics App](https://garg-electronics-app.vercel.app).**
+The application is deployed live on Vercel. You can access it at the following URL: **[Garg Electronics App](electronics-react-seven.vercel.app).
+).**
 
 
 ## Getting Started
