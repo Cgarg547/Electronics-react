@@ -123,13 +123,6 @@ Before running this project, ensure you have the following installed:
 - The backend server includes Swagger API documentation that can be accessed at `http://localhost:5000/api-docs`.
 - Before accessing the above URL, ensure that the backend server is running.
 - The Swagger UI provides a detailed overview of the API endpoints, request/response schemas, and example requests.
-- If you have everything set up correctly, you should see the Swagger UI documentation page:
-
-<p align="center">
-    <img src="docs/swagger-ui.png" alt="The MovieVerse App Interface" style="border-radius: 10px" width="100%"/>
-</p>
-
-## OpenAPI Specification
 
 ### Using the `openapi.yaml` File
 
