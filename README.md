@@ -14,7 +14,7 @@ Welcome to **Garg Electronics**, a **MERN-Stack E-commerce Application**! This p
 6. [Swagger API Documentation](#swagger-api-documentation)
 7.  [Using the `openapi.yaml` File](#using-the-openapiyaml-file)
 8.   [Deployment](#deployment)
-9.    [Containerization](#containerization)
+9.  [Containerization](#containerization)
 10.[Contributing](#contributing)
 11. [License](#license)
 12. [Creator](#creator)
