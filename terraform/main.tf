@@ -19,7 +19,7 @@ variable "region" {
 
 variable "app_name" {
   type    = string
-  default = "fusion-electronics"
+  default = "garg-electronics"
 }
 
 locals {

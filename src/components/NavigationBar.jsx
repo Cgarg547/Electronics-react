@@ -154,7 +154,7 @@ function NavigationBar({ cartItemCount }) {
             </Menu>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
               <Link to="/" className="logo-link">
-                FUSION ELECTRONICS
+                GARG ELECTRONICS
               </Link>
             </Typography>
           </>
@@ -162,7 +162,7 @@ function NavigationBar({ cartItemCount }) {
           <>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
               <Link to="/" className="logo-link">
-                FUSION ELECTRONICS
+                GARG ELECTRONICS
               </Link>
             </Typography>
             <form className="search-bar" ref={searchBarRef} onSubmit={e => e.preventDefault()}>

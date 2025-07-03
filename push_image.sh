@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # 1) Configuration
-GH_USER="hoangsonww"
+GH_USER="cgarg547"
 IMAGE="ghcr.io/${GH_USER}/ecommerce-fullstack-website-frontend"
 VERSION=$(node -p "require('./package.json').version")
 

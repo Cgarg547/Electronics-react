@@ -1,10 +1,10 @@
-# Fusion Electronics: A MERN-Stack E-commerce Application
+# Garg Electronics
 
-Welcome to **Fusion Electronics**, a **MERN-Stack E-commerce Application**! This project is a working demo of a full-stack web application that was built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It aims to provide a comprehensive example of building a modern e-commerce platform, covering frontend user interface, backend server logic, database management, and integration with third-party libraries.
+Welcome to **Garg Electronics**, a **MERN-Stack E-commerce Application**! This project is a working demo of a full-stack web application that was built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It aims to provide a comprehensive example of building a modern e-commerce platform, covering frontend user interface, backend server logic, database management, and integration with third-party libraries.
 
 <p align="center">
-  <a href="https://fusion-ecommerce-app.vercel.app/" target="_blank">
-    <img src="docs/logo.png" alt="Fusion Electronics Logo" style="border-radius: 10px" width="35%"/>
+  <a href="https://gard-electronics-app.vercel.app/" target="_blank">
+    <img src="docs/logo.png" alt="Garg Electronics Logo" style="border-radius: 10px" width="35%"/>
   </a>
 </p>
 
@@ -40,9 +40,9 @@ This project is a demonstration of building an e-commerce application using the 
 
 ## Live Deployment
 
-The application is deployed live on Vercel. You can access it at the following URL: **[Fusion Electronics App](https://fusion-ecommerce-app.vercel.app).**
+The application is deployed live on Vercel. You can access it at the following URL: **[Garg Electronics App](https://garg-electronics-app.vercel.app).**
 
-The backend server is deployed on Render and can be accessed at the following URL: **[Fusion Electronics API](https://mern-stack-ecommerce-app-h5wb.onrender.com/).**
+The backend server is deployed on Render and can be accessed at the following URL: **[Garg Electronics API](https://mern-stack-ecommerce-app-h5wb.onrender.com/).**
 
 > [!IMPORTANT]
 > **Note**: The backend server may take a few seconds to wake up if it has been inactive for a while. For your information, it is hosted on the free tier of Render, with 0.1 CPU and 512 MB of memory only, so it may take a bit longer to respond to requests, especially after periods of inactivity.
@@ -52,73 +52,73 @@ The backend server is deployed on Render and can be accessed at the following UR
 ### Home Page
 
 <p align="center">
-    <img src="docs/home-ui.png" alt="Fusion Electronics Homepage" style="border-radius: 10px" width="100%"/>
+    <img src="docs/home-ui.png" alt="Garg Electronics Homepage" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Full Product List
 
 <p align="center">
-    <img src="docs/products-ui.png" alt="Fusion Electronics Products List" style="border-radius: 10px" width="100%"/>
+    <img src="docs/products-ui.png" alt="Garg Electronics Products List" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Search Results
 
 <p align="center">
-    <img src="docs/search-results-ui.png" alt="Fusion Electronics Search Results" style="border-radius: 10px" width="100%"/>
+    <img src="docs/search-results-ui.png" alt="Garg Electronics Search Results" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Product Details Page
 
 <p align="center">
-    <img src="docs/product-details-ui.png" alt="Fusion Electronics Product Details Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/product-details-ui.png" alt="Garg Electronics Product Details Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Cart Page
 
 <p align="center">
-    <img src="docs/cart-ui.png" alt="Fusion Electronics Cart Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/cart-ui.png" alt="Garg Electronics Cart Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Checkout Page
 
 <p align="center">
-    <img src="docs/checkout-ui.png" alt="Fusion Electronics Checkout Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/checkout-ui.png" alt="Garg Electronics Checkout Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Login Page
 
 <p align="center">
-    <img src="docs/login-ui.png" alt="Fusion Electronics Login Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/login-ui.png" alt="Garg Electronics Login Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Register Page
 
 <p align="center">
-    <img src="docs/register-ui.png" alt="Fusion Electronics Register Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/register-ui.png" alt="Garg Electronics Register Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Forgot Password Page
 
 <p align="center">
-    <img src="docs/forgot-password-ui.png" alt="Fusion Electronics Forgot Password Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/forgot-password-ui.png" alt="Garg Electronics Forgot Password Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Reset Password Page
 
 <p align="center">
-    <img src="docs/reset-password-ui.png" alt="Fusion Electronics Reset Password Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/reset-password-ui.png" alt="Garg Electronics Reset Password Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Order Confirmation
 
 <p align="center">
-    <img src="docs/order-ui.png" alt="Fusion Electronics Order Success Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/order-ui.png" alt="Garg Electronics Order Success Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Footer
 
 <p align="center">
-    <img src="docs/footer.png" alt="Fusion Electronics Footer" style="border-radius: 10px" width="100%"/>
+    <img src="docs/footer.png" alt="Garg Electronics Footer" style="border-radius: 10px" width="100%"/>
 </p>
 
 ## Features
@@ -239,7 +239,7 @@ Before running this project, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hoangsonww/MERN-Stack-Ecommerce-App.git
+   git clone https://github.com/cgarg547/MERN-Stack-Ecommerce-App.git
    cd MERN-Stack-Ecommerce-App  # Fix the path if necessary
    ```
 
@@ -396,11 +396,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Creator
 
-- **Son Nguyen** - [hoangsonww](https://github.com/hoangsonww)
-- **Email:** [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
+- **Chirag Garg** - [Cgarg547](https://github.com/cgarg547)
+- **Email:** [chiraggargkkp@gmail.com](mailto:chiraggargkkp@gmail.com).
 
 ---
 
-Thank you for exploring **Fusion Electronics - a MERN Stack E-commerce Application**! If you have any questions or feedback, feel free to reach out or open an issue.
+Thank you for exploring **Garg Electronics - a MERN Stack E-commerce Application**! If you have any questions or feedback, feel free to reach out or open an issue.
 
 **Happy coding! 🚀**

@@ -8,7 +8,7 @@
 # ────────────────────────────────────────────────────────────────────────────────
 
 # User/config
-GH_USER        ?= hoangsonww
+GH_USER        ?= cgarg547
 BACKEND_DIR    := backend
 
 # derive versions from package.json
@@ -17,11 +17,11 @@ BACKEND_VERSION  := $(shell cd $(BACKEND_DIR) && node -p "require('./package.jso
 
 # image names
 FRONTEND_IMAGE := ghcr.io/$(GH_USER)/ecommerce-fullstack-website-frontend
-BACKEND_IMAGE  := ghcr.io/$(GH_USER)/fusion-electronics-backend
+BACKEND_IMAGE  := ghcr.io/$(GH_USER)/garg-electronics-backend
 
 # npm package names
 FRONTEND_PKG   := @$(GH_USER)/ecommerce-fullstack-website-frontend
-BACKEND_PKG    := @$(GH_USER)/fusion-electronics-backend
+BACKEND_PKG    := @$(GH_USER)/garg-electronics-backend
 
 # ────────────────────────────────────────────────────────────────────────────────
 .PHONY: all help install build test \

@@ -1,11 +1,11 @@
 openapi: 3.1.0
 info:
-  title: Fusion E-Commerce Backend APIs
+  title: Garg E-Commerce Backend APIs
   description: |
-    API documentation for the Fusion E-Commerce backend server. This documentation provides detailed information on all available endpoints for managing products, users, authentication, and more.
+    API documentation for the Garg E-Commerce backend server. This documentation provides detailed information on all available endpoints for managing products, users, authentication, and more.
   version: 1.1.0
   contact:
-    email: support@fusion-ecommerce.com
+    email: support@garg-ecommerce.com
 servers:
   - url: https://mern-stack-ecommerce-app-h5wb.onrender.com/
     description: Production server

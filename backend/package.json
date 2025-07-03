@@ -1,8 +1,8 @@
 {
-  "name": "@hoangsonww/fusion-electronics-backend",
-  "displayName": "Fusion Electronics Backend",
+  "name": "@cgarg547/garg-electronics-backend",
+  "displayName": "Garg Electronics Backend",
   "version": "1.1.1",
-  "description": "A backend server for Fusion Electronics - a MERN stack e-commerce website",
+  "description": "A backend server for Garg Electronics - a MERN stack e-commerce website",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --exec 'cd seed && node productSeeds.js dev && cd .. && node index.js'",
@@ -18,14 +18,14 @@
     "stripe",
     "ecommerce"
   ],
-  "author": "Son Nguyen",
+  "author": "Chirag Garg",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoangsonww/MERN-Stack-Ecommerce-App.git"
+    "url": "git+https://github.com/cgarg547/MERN-Stack-Ecommerce-App.git"
   },
   "bugs": {
-    "url": "https://github.com/hoangsonww/MERN-Stack-Ecommerce-App/issues"
+    "url": "https://github.com/cgarg547/MERN-Stack-Ecommerce-App/issues"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"

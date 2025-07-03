@@ -1,19 +1,19 @@
 {
-  "name": "@hoangsonww/ecommerce-fullstack-website-frontend",
-  "displayName": "Fusion Electronics Ecommerce Website",
+  "name": "@cgarg547/ecommerce-fullstack-website-frontend",
+  "displayName": "Garg Electronics Ecommerce Website",
   "description": "A fullstack ecommerce website built with React, Node.js, Express, MongoDB, and Material-UI.",
-  "author": "Son Nguyen",
+  "author": "Chirag Garg",
   "license": "MIT",
   "homepage": "/",
   "bugs": {
-    "url": "https://github.com/hoangsonww/MERN-Stack-Ecommerce-App/issues"
+    "url": "https://github.com/cgarg547/MERN-Stack-Ecommerce-App/issues"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoangsonww/MERN-Stack-Ecommerce-App.git"
+    "url": "git+https://github.com/cgarg547/MERN-Stack-Ecommerce-App.git"
   },
   "version": "1.1.0",
   "dependencies": {

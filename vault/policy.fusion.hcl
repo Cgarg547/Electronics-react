@@ -1,10 +1,10 @@
-# Allow the app to read its secrets under secret/data/fusion-electronics/*
-path "secret/data/fusion-electronics/*" {
+# Allow the app to read its secrets under secret/data/garg-electronics/*
+path "secret/data/garg-electronics/*" {
   capabilities = ["read", "list"]
 }
 
 # Allow dynamic database credentials
-path "database/creds/fusion-electronics-db" {
+path "database/creds/garg-electronics-db" {
   capabilities = ["read"]
 }
 

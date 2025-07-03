@@ -56,19 +56,19 @@ const Footer = () => {
             </Typography>
             <Typography variant="body2">
               Project Maintainer:{' '}
-              <Link href="https://github.com/hoangsonww" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#f50057' } }}>
-                Son Nguyen
+              <Link href="https://github.com/cgarg547" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#f50057' } }}>
+                Chirag Garg
               </Link>
             </Typography>
             <Typography variant="body2">
               Email:{' '}
-              <Link href="mailto:hoangson091104@gmail.com" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#f50057' } }}>
-                hoangson091104@gmail.com
+              <Link href="mailto:chiraggargkkp@gmail.com" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#f50057' } }}>
+                chiraggargkkp@gmail.com
               </Link>
             </Typography>
-            <Typography variant="body2">Phone: +1 (123) 456-7890</Typography>
+            <Typography variant="body2">Phone: +1 (437) 256- 7137</Typography>
             <Typography variant="body2" sx={{ marginTop: '0.5rem' }}>
-              Address: 123 Product St, Suite 500, Los Angeles, CA 90001
+              Address: Richmond, British Columbia, CA, V6X
             </Typography>
           </Grid>
         </Grid>
@@ -82,7 +82,7 @@ const Footer = () => {
             paddingTop: '1rem',
           }}
         >
-          <Typography variant="body2">© {new Date().getFullYear()} Fusion Electronics. All rights reserved.</Typography>
+          <Typography variant="body2">© {new Date().getFullYear()} Garg Electronics. All rights reserved.</Typography>
         </Box>
       </Container>
     </Box>
