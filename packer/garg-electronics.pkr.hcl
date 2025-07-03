@@ -9,7 +9,7 @@ packer {
 
 variable "backend_image_name" {
   type    = string
-  default = "fusion-electronics-backend"
+  default = "garg-electronics-backend"
 }
 variable "backend_version" {
   type    = string
@@ -36,7 +36,7 @@ build {
 
   provisioner "shell" {
     inline = [
-      "docker tag fusion-electronics-backend:latest ghcr.io/hoangsonww/fusion-electronics-backend:${var.backend_version}"
+      "docker tag garg-electronics-backend:latest ghcr.io/cgarg547/garg-electronics-backend:${var.backend_version}"
     ]
   }
 }

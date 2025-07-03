@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: fusion-ecommerce-frontend:latest  # Build and push this to a container registry
+          image: garg-ecommerce-frontend:latest  # Build and push this to a container registry
           ports:
             - containerPort: 3001
           env:

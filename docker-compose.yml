@@ -1,5 +1,4 @@
 version: '3.8'
-
 services:
   backend:
     build:
@@ -10,7 +9,6 @@ services:
       - MONGO_URI=mongodb://localhost:27017/Ecommerce-Products
     depends_on:
       - mongodb
-
   frontend:
     build:
       context: .
@@ -18,7 +16,6 @@ services:
       - "3000:80"
     depends_on:
       - backend
-
   mongodb:
     image: mongo:6.0
     ports:

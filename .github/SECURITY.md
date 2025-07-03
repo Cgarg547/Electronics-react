@@ -1,6 +1,6 @@
 # Security Policy
 
-_Last updated: May 16, 2025_
+_Last updated: July 02, 2025_
 
 This document describes the security vulnerability disclosure process for the **MERN Stack Ecommerce** project. It covers supported versions, reporting guidelines, response commitments, and safe-harbor protections for security researchers.
 
@@ -25,16 +25,8 @@ If you discover a security issue in our code or infrastructure, please report it
 1. **Email**:
 
    ```text
-   hoangson091104@gmail.com
+   chiraggargkkp@gmail.com
    ```
-
-2. **PGP Key** (fingerprint):
-
-   ```
-   3F8A 2E4B 9D1C 7A5E 0B9F  1C23 4D56 7890 ABCD 1234
-   ```
-
-   Attach your public key or encrypt your report to avoid eavesdropping.
 
 3. **What to include**:
 

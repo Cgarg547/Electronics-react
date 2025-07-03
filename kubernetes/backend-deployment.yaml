@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: fusion-ecommerce-backend:latest
+          image: garg-ecommerce-backend:latest
           ports:
             - containerPort: 3000
           env:
