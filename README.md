@@ -2,12 +2,6 @@
 
 Welcome to **Garg Electronics**, a **MERN-Stack E-commerce Application**! This project is a working demo of a full-stack web application that was built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It aims to provide a comprehensive example of building a modern e-commerce platform, covering frontend user interface, backend server logic, database management, and integration with third-party libraries.
 
-<p align="center">
-  <a href="https://gard-electronics-app.vercel.app/" target="_blank">
-    <img src="docs/logo.png" alt="Garg Electronics Logo" style="border-radius: 10px" width="35%"/>
-  </a>
-</p>
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -41,11 +35,6 @@ This project is a demonstration of building an e-commerce application using the 
 ## Live Deployment
 
 The application is deployed live on Vercel. You can access it at the following URL: **[Garg Electronics App](https://garg-electronics-app.vercel.app).**
-
-The backend server is deployed on Render and can be accessed at the following URL: **[Garg Electronics API](https://mern-stack-ecommerce-app-h5wb.onrender.com/).**
-
-> [!IMPORTANT]
-> **Note**: The backend server may take a few seconds to wake up if it has been inactive for a while. For your information, it is hosted on the free tier of Render, with 0.1 CPU and 512 MB of memory only, so it may take a bit longer to respond to requests, especially after periods of inactivity.
 
 ## User Interface
 
